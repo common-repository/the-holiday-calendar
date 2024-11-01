@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheHolidayCalendar\n"
+"POT-Creation-Date: 2020-10-23 20:49+0200\n"
+"PO-Revision-Date: 2020-10-23 20:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: Mva7\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/post-form.class.php:34
+msgid "Start date (input: mm/dd/yyyy):"
+msgstr ""
+
+#: admin/post-form.class.php:37
+msgid "Start time (input: hh:mm) (optional):"
+msgstr ""
+
+#: admin/post-form.class.php:42
+msgid "End date (input: mm/dd/yyyy):"
+msgstr ""
+
+#: admin/post-form.class.php:45
+msgid "End time (input: hh:mm) (optional):"
+msgstr ""
+
+#: admin/settings.class.php:31
+msgid "Settings"
+msgstr ""
+
+#: admin/settings.class.php:85
+msgid "Date format"
+msgstr ""
+
+#: admin/settings.class.php:93
+msgid "Hide read more link"
+msgstr ""
+
+#: admin/settings.class.php:101
+msgid "Show date on event page"
+msgstr ""
+
+#: admin/settings.class.php:109
+msgid "Hide background information about holidays"
+msgstr ""
+
+#: admin/settings.class.php:117
+msgid "No cookie mode"
+msgstr ""
+
+#: admin/settings.class.php:188
+msgid ""
+"Recommended! (However, some websites made some modifications and may want to "
+"disable this.)"
+msgstr ""
+
+#: admin/settings.class.php:202
+msgid ""
+"Sometimes needed if cookies are blocked on the server side. Without cookie, "
+"visitor preferences are not saved."
+msgstr ""
+
+#: admin/widget-form.class.php:35
+msgid "Widget Title"
+msgstr ""
+
+#: admin/widget-form.class.php:40
+msgid "Include holidays (with settings below)"
+msgstr ""
+
+#: admin/widget-form.class.php:43
+msgid "Country"
+msgstr ""
+
+#: admin/widget-form.class.php:52
+msgid "Allow user to change country"
+msgstr ""
+
+#: admin/widget-form.class.php:55
+msgid "Display mode"
+msgstr ""
+
+#: admin/widget-form.class.php:57
+msgid "List"
+msgstr ""
+
+#: admin/widget-form.class.php:59
+msgid "Calendar"
+msgstr ""
+
+#: admin/widget-form.class.php:62
+msgid "First day of the week"
+msgstr ""
+
+#: admin/widget-form.class.php:64
+msgid "Sun"
+msgstr ""
+
+#: admin/widget-form.class.php:66
+msgid "Mon"
+msgstr ""
+
+#: admin/widget-form.class.php:69
+msgid "Number of holidays (in list mode)"
+msgstr ""
+
+#: admin/widget-form.class.php:78
+msgid "Enable \"Powered by The Holiday Calendar\". Thank you!!!"
+msgstr ""
+
+#: admin/widget-form.class.php:80
+msgid "Additional settings can be found on the plugin's settings page."
+msgstr ""
+
+#: admin/widget-form.class.php:81
+msgid "manual"
+msgstr ""
+
+#: admin/widget-form.class.php:82
+#, php-format
+msgid "New! Short codes are now also supported. Check the %s for more info."
+msgstr ""
+
+#: gui-elements/gui-builder.class.php:143
+msgid "Holiday country:"
+msgstr ""
+
+#: helpers/translation-helper.class.php:5
+msgid "January"
+msgstr "enero"
+
+#: helpers/translation-helper.class.php:5
+msgid "February"
+msgstr "febrero"
+
+#: helpers/translation-helper.class.php:5
+msgid "March"
+msgstr "marzo"
+
+#: helpers/translation-helper.class.php:5
+msgid "April"
+msgstr "abril"
+
+#: helpers/translation-helper.class.php:5
+msgid "May"
+msgstr "mayo"
+
+#: helpers/translation-helper.class.php:5
+msgid "June"
+msgstr "junio"
+
+#: helpers/translation-helper.class.php:5
+msgid "July"
+msgstr "julio"
+
+#: helpers/translation-helper.class.php:5
+msgid "August"
+msgstr "agosto"
+
+#: helpers/translation-helper.class.php:5
+msgid "September"
+msgstr "septiembre"
+
+#: helpers/translation-helper.class.php:5
+msgid "October"
+msgstr "octubre"
+
+#: helpers/translation-helper.class.php:5
+msgid "November"
+msgstr "noviembre"
+
+#: helpers/translation-helper.class.php:5
+msgid "December"
+msgstr "diciembre"
+
+#: helpers/translation-helper.class.php:12
+msgid "Sunday"
+msgstr "domingo"
+
+#: helpers/translation-helper.class.php:12
+msgid "Monday"
+msgstr "lunes"
+
+#: helpers/translation-helper.class.php:12
+msgid "Tuesday"
+msgstr "martes"
+
+#: helpers/translation-helper.class.php:12
+msgid "Wednesday"
+msgstr "miércoles"
+
+#: helpers/translation-helper.class.php:12
+msgid "Thursday"
+msgstr "jueves"
+
+#: helpers/translation-helper.class.php:12
+msgid "Friday"
+msgstr "viernes"
+
+#: helpers/translation-helper.class.php:12
+msgid "Saturday"
+msgstr "sábado"
+
+#: helpers/translation-helper.class.php:21
+#, php-format
+msgid "Read more about %1$s on %2$s."
+msgstr "Leer más sobre %1$s en %2$s."
+
+#: posts/post-manager.class.php:71
+msgid "Event saved successfully!"
+msgstr ""
+
+#: posts/post-manager.class.php:76
+msgid "Wrong input! Please try again or your event will not be visible."
+msgstr ""
+
+#: the-holiday-calendar.php:66 the-holiday-calendar.php:303
+msgid "The Holiday Calendar"
+msgstr ""
+
+#: the-holiday-calendar.php:278
+msgid "Events"
+msgstr ""
+
+#: the-holiday-calendar.php:279
+msgid "Event"
+msgstr ""

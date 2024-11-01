@@ -1,0 +1,108 @@
+.thc-calendar table td {
+    text-align: center;
+}
+
+    .thc-calendar table td a {
+        color: #15a205;
+        text-decoration: none !important;
+        cursor: pointer;
+    }
+
+        .thc-calendar table tr.thc-calendar-row td a:hover {
+            font-size: 150%;
+        }
+
+.thc-calendar table caption {
+	background-color: transparent;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 200%;
+    padding-bottom: 0.5em;
+    color: #152b81;
+}
+
+.thc-calendar table th,
+.thc-calendar table td {
+    font-weight: bold;
+    height: 3em;
+    width: auto;
+    border: 0 !important;
+}
+
+    .thc-calendar table td.disabled {
+        color: #e2eff8;
+    }
+
+.thc-calendar table th {
+    text-transform: uppercase;
+    border-top: 1px solid #e2eff8 !important;
+    text-align: center;
+}
+
+.thc-calendar table td {
+    border-right: 1px solid #e2eff8 !important;
+    border-bottom: 1px solid #e2eff8 !important;
+    line-height: 1em;
+}
+
+.thc-calendar table tbody tr:nth-last-child(2) td {
+    border-bottom: none !important;
+}
+
+.thc-calendar table tbody tr:last-child td {
+    border: none !important;
+}
+
+.thc-calendar table tbody tr td:last-child,
+.thc-calendar table thead tr th:last-child{
+    border-right: none !important;
+}
+
+.thc-calendar table {
+    border-collapse: collapse;
+    border: 0 !important;
+}
+
+.thc-calendar table {
+    width: 100%;
+    table-layout: fixed;
+    margin: 0;
+}
+
+.thc-calendar {
+	box-sizing: border-box;
+    float: none;
+    width: 100%;
+    margin-bottom: 1em;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    background-color: #f1f7fc;
+    padding: 1em;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.thc-mode-calendar .country-selector label,
+.thc-mode-calendar .country-selector select
+ {
+	font-family: 'Quicksand',sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.thc-mode-calendar .country-selector select {
+	width: auto;
+	height: 1.5em;
+	padding: inherit;
+	-webkit-appearance: auto;
+}
+
+.thc-mode-calendar .country-selector select:hover {
+	cursor: pointer;
+}
+
+.thc-calendar .today {
+    background-color: #e2eff8;
+}
